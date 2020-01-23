@@ -380,8 +380,8 @@ html,body{font-family: 'Lato', sans-serif;}
 select.kb-inpselect{background-color:transparent;border: none;border-bottom:1px solid #666666;font-size: 14px;}
 select.kb-inpselect:focus{outline:none;background-color:transparent;font-weight:600;}
 input[type="text"].ui-autocomplete-input, input[aria-labelledby="block-newsletter-label"]{background-color:white;}
-input[type="text"], input[type="email"], input[type="password"]{border: none;border-bottom:1px solid #666666;padding: .5rem;}
-input[type="email"]:focus, input[type="text"]:focus, input[type="password"]:focus{border-bottom: 1px solid #36bde3!important;outline: none;}
+input[type="text"], input[type="email"], input[type="password"], textarea{border: none;border-bottom: 1px solid #666666!important;padding: .5rem;}
+input[type="email"]:focus, input[type="text"]:focus, input[type="password"]:focus, textarea:focus{border-bottom: 1px solid #36bde3!important;outline: none;}
 .btn{box-shadow:none;text-transform:inherit;font-weight:normal;border-radius: 5px;}
 .btn:focus{outline:none;}
 
@@ -706,7 +706,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4854a0', end
 
 #my-account #main .links{display: block;margin: auto;padding-top: 5px;}
 #my-account #main .links h3{margin-left:0px;font-size:18px;padding-left:5px;text-transform:capitalize;padding-bottom:10px;}
-#my-account #main .links a{margin-bottom:0px;padding-left:0px;width:100%;}
+#my-account #main .links a{margin-bottom:0px;padding-left:0px;width:100%;border-bottom: 1px solid #ebebeb;padding-right: 0px;}
 #main .links a .link-item{position:relative;text-align: left;text-transform: initial;}
 #main .links a .link-item i{font-size:0px;background-image:url("../../../../img/IconsCustomer/right.svg");background-repeat: no-repeat;position:absolute;right: 10px;top: 15px;width: 20px;height: 20px;padding-bottom: 0;}
 #main .links a .link-item i.Right{background-image:url("../../../../img/IconsCustomer/right.svg");background-repeat: no-repeat;position:absolute;right: 10px;top: 15px;width: 20px;height: 20px;padding-bottom: 0;}

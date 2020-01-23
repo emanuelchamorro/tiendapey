@@ -1335,15 +1335,15 @@ a.kbbtn:hover{
     user-select: none;
     position: absolute;
     left: 0;
-    margin-top: 9px;
+    margin-top: 0px;
 }
 
 
 .kb-filter-block{
     display: none;
-    padding-top: 20px;
-    background: #999999;
-    color: white;
+    padding-top: 40px;
+    background: #ffffff;
+    color: #333333;
 }
 
 .kb-filter-block ul{
