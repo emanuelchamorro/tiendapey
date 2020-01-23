@@ -1,0 +1,277 @@
+
+
+			
+			    
+				
+				
+				Message from {shop_name}
+				
+				@media only screen and (max-width: 300px){
+					body {
+					    width:218px !important;
+					    margin:auto !important;
+					}
+					.table {width:195px !important;margin:auto !important; background-color:#fff;}
+				}
+				@media only screen and (min-width: 301px) and (max-width: 500px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px!important;margin:auto!important;}
+				}
+				@media only screen and (min-width: 501px) and (max-width: 768px) {
+				    body {width:478px!important;margin:auto!important;}
+				    .table {width:450px!important;margin:auto!important;}
+				    .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				}
+				@media only screen and (max-device-width: 480px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px;margin:auto!important;}
+				}
+				
+			    
+			    
+				
+				    
+					&nbsp;
+					
+					    
+						
+						    
+							
+							    
+							
+						    
+						
+					    
+					    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{shop_name}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry! Your review has been disapproved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear {customer_name},
+We really appreciate all the trouble taken by you to posting your reviews. However, it was disapproved. We apologize for the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please do let us know if there’s anything else that we can do for you.
+Thank You!!  {shop_url} Support Email:- {shop_email}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Happy Shopping!
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+					&nbsp;
+				    
+				
+			
+			
+                        

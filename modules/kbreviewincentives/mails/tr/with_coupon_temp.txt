@@ -1,0 +1,300 @@
+
+			
+			    
+				
+				
+				Message from {shop_name}
+				
+				@media only screen and (max-width: 300px){
+					body {
+					    width:218px !important;
+					    margin:auto !important;
+					}
+					.table {width:195px !important;margin:auto !important; background-color:#fff;}
+				}
+				@media only screen and (min-width: 301px) and (max-width: 500px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px!important;margin:auto!important;}
+				}
+				@media only screen and (min-width: 501px) and (max-width: 768px) {
+				    body {width:478px!important;margin:auto!important;}
+				    .table {width:450px!important;margin:auto!important;}
+				    .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				}
+				@media only screen and (max-device-width: 480px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px;margin:auto!important;}
+				}
+				
+			    
+			    
+				
+				    
+					&nbsp;
+					
+					    
+						
+						    
+							
+							    
+							
+						    
+						
+					    
+					    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You just earned a discount of {amount} on your next purchase!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear {customer_name},
+We would like to thank you for the impressive product review you shared about our product {product_name}. Your review has been approved . To check the same click here {review_link}. As a token of appreciation for your valuable feedback, we are offering you a discount coupon of {amount}. You an avail the offer on any purchase with the Coupon Code {coupon_code}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coupon Code:
+{coupon_code}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please feel free to email us with any questions.
+Best regards  {shop_url} Support Email: {shop_email}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Happy Shopping!
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+					&nbsp;
+				    
+				
+			
+			
+                        

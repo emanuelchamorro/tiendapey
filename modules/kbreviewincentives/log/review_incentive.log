@@ -1,0 +1,26 @@
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-11 19:18:03		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-11 19:18:11		Success		An email has been sent to admin to inform about a new posted review.
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-11 19:18:21		Success		A new review has been sent for approval.
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-11 19:26:34		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-11 19:26:41		Success		An email has been sent to admin to inform about a new posted review.
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-11 19:26:56		Success		A new review has been sent for approval.
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 10:27:25		Success		An email is sent for approving a review of customer having customer id 2
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 10:59:10		Success		An email is sent for approving a review of customer having customer id 0
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 10:59:36		Success		An email is sent for approving a review of customer having customer id 0
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 11:01:13		Success		An email is sent for approving a review of customer having customer id2
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-12 11:04:27		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-12 11:04:33		Success		An email has been sent to admin to inform about a new posted review.
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 11:05:10		Success		An email is sent for approving a review of customer having customer id 2
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-12 11:06:16		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-12 11:06:22		Success		An email has been sent to admin to inform about a new posted review.
+AdminKbrcReviewsController::processUpdate()		A coupon email has been sent.		2019-09-12 11:06:46		Success		Incentive has been sent to customer having customer id 2
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-12 11:07:44		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-12 11:07:49		Success		An email has been sent to admin to inform about a new posted review.
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 11:09:09		Success		An email is sent for approving a review of customer having customer id 2
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-12 11:17:37		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-12 11:17:43		Success		An email has been sent to admin to inform about a new posted review.
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 11:18:50		Success		An email is sent for approving a review of customer having customer id 0
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		A new review has been sent for approval.		2019-09-12 11:19:40		Success		A new review has been sent for approval.
+sendNotificationEmail()		An email has been sent to admin to inform about a new posted review.		2019-09-12 11:19:45		Success		An email has been sent to admin to inform about a new posted review.
+AdminKbrcReviewsController::processUpdate()		An email has been sent for review approval information.		2019-09-12 11:20:25		Success		An email is sent for approving a review of customer having customer id 0
+KbreviewincentivesKbwritenewreviewModuleFrontController::submitData()		New review posted.		2020-01-16 16:05:55		Success		A new review has been posted

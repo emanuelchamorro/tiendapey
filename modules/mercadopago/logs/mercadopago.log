@@ -1,0 +1,10 @@
+[2020-01-16 12:42:13] [INFO]: Mercadopago plugin installed in the store
+[2020-01-16 12:42:30] [ERROR]: API application_search_owner_id error: You must send a parameter to search
+[2020-01-16 12:42:31] [ERROR]: API get_payment_methods error: neither a public key nor caller id were provided
+[2020-01-16 12:42:32] [ERROR]: API get_payment_methods error: neither a public key nor caller id were provided
+[2020-01-16 12:42:32] [ERROR]: API get_payment_methods error: neither a public key nor caller id were provided
+[2020-01-16 12:44:28] [INFO]: Credentials saved successfully
+[2020-01-16 12:44:58] [INFO]: Basic configuration saved successfully
+[2020-01-16 12:45:22] [INFO]: Advanced configuration saved successfully
+[2020-01-16 12:51:06] [INFO]: Cart id 15 - Preference created successfully
+[2020-01-20 14:21:50] [INFO]: Basic configuration saved successfully

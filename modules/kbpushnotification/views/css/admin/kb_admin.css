@@ -1,0 +1,103 @@
+.error_message {
+    color: red !important;
+    
+}
+.error_field {
+    border: 1px solid red !important;
+}
+
+.bootstrap .list-group-item {
+    padding: 10px 8px;
+}
+
+a.list-group-item i { padding-right: 5px; }
+
+a.list-group-item { cursor: pointer; }
+
+form#module_config { display: none; }
+form#email_settings { display: none; }
+form#pdf_settings { display: none; }
+form#cron_settings { display: none; }
+
+/* Validation CSS Start */
+.kb_error_field {
+    border: 1px solid #F44336 !important;
+}
+
+.kb_error_message {
+    color: #F44336;
+}
+
+.icon-exclamation-circle {
+    float: right;
+    color: #ff0000;
+    font-size: 19px;
+}
+
+.stepconfig-row {
+    display: table-row;
+}
+
+.stepconfig-row:before {
+    top: 14px;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 1px;
+    background-color: #ccc;
+    z-order: 0;
+}
+
+.stepconfig-step {
+    display: table-cell;
+    text-align: center;
+    position: relative;
+}
+
+.stepconfig-btn {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    /* font-size: 12px; */
+    /* line-height: 1.428571429; */
+    border-radius: 15px;
+    background-color: #00aff0;
+    color: #fff;
+    text-transform: uppercase;
+    border-color: #2eacce;
+    display: inline-block;
+}
+
+ul.bar-legend {
+    list-style-type: none;
+    margin-top: 55px;
+    padding-left: 0px;
+}
+ul.bar-legend li {
+    display: block;
+    margin-bottom: 10px;
+}
+
+ul.bar-legend li span {
+    float: left;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+ul.bar-legend li span.purple {
+    background: #6a8bbe;
+}
+ul.bar-legend li span.blue {
+    background: #5ab6df;
+}
+ul.bar-legend li span.red {
+    background: #fb8575;
+}
+
+#total-mobile-user .icon-mobile {
+        font-size: 36px;
+}

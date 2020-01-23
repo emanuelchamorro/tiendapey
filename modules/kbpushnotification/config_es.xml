@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>kbpushnotification</name>
+    <displayName><![CDATA[Knowband inserci&oacute;n Web Notificaciones]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[La notificaci&oacute;n de inserci&oacute;n Web ayuda a aumentar las ventas y la participaci&oacute;n del cliente mediante el env&iacute;o de la notificaci&oacute;n de inserci&oacute;n ilimitado al cliente.]]></description>
+    <author><![CDATA[knowband]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

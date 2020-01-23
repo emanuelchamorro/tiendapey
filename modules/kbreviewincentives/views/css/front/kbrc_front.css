@@ -1,0 +1,1445 @@
+.kb-gdpr-checkbox .checkbox {
+    /*background: #fff !important;*/
+}
+
+
+
+#review_incentive_fieldset li *,
+#review_incentive_fieldset input *, 
+#review_incentive_fieldset select *,
+#review_incentive_fieldset textarea *,
+#review_incentive_fieldset h1 *,
+#review_incentive_fieldset h2 *,
+#review_incentive_fieldset ul *,
+#review_incentive_fieldset ul li *,
+/*#review_incentive_fieldset label *,*/
+/*#review_incentive_fieldset span *,*/
+#review_incentive_fieldset b *,
+/*#review_incentive_fieldset tr *,*/
+/*#review_incentive_fieldset td *,*/
+/*#review_incentive_fieldset td span *,*/
+#review_incentive_fieldset table.radio td label * 
+#review_incentive_fieldset .special-price *,
+#review_incentive_fieldset .price-old *,
+#review_incentive_fieldset .price *,
+#review_incentive_fieldset small *,
+/*#review_incentive_fieldset div *,*/
+#review_incentive_fieldset style *,
+#review_incentive_fieldset option *,
+#review_incentive_fieldset .warning *,
+#review_incentive_fieldset th *,
+#review_incentive_fieldset input[type*="radio"],
+/*#review_incentive_fieldset input[type*="checkbox"],*/
+#review_incentive_fieldset input[type*="text"],
+#review_incentive_fieldset input[type*="password"],
+#review_incentive_fieldset input[name="postcode"] {
+    color :#000000;
+    line-height: none;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform : none;
+    hanging-punctuation: none;
+    text-align-last: none;
+    text-justify: none;
+    text-overflow: none;
+    text-shadow: none;
+    text-wrap: none;
+    margin: 0px;
+    padding: 0px;
+    list-style :none;
+    font-family :Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    border: none;
+    border-image: none;
+    border-radius: 0px;
+    max-width:none;
+    min-width:0px;
+    box-shadow: none;
+    /*background :none;*/
+    /*background-image: none;*/
+    /*background-color: none;*/
+/*    opacity: 1;*/
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+/*	width: auto;*/
+}
+#review_incentive_fieldset {
+    margin: 0px !important;
+    border:none !important;
+    padding: 0px;
+/*    clear: both;   Commented by Anoop Lath */ 
+}
+#review_incentive_fieldset #velsof_add_review_form .content{
+    padding-bottom:20px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header{
+    text-align:center;
+    border:none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #2fb5d2;
+    margin-bottom: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#review_incentive_fieldset #velsof_add_review_form .formReview{
+    width:70%;
+    margin:auto;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview p{
+    text-align:center;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .velsof_star_ratings{
+    padding:0;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .velsof_star_ratings .stars{
+    display:flex;
+    width:300px;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin:auto;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .velsof_star_ratings label.star{
+    padding:10px;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview label{
+    padding-top:10px;
+    padding-bottom:10px;
+    display:block;
+    text-align:center;
+    float:none;    
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview label span{
+    display:block;
+    text-align:center;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview label span span{
+    display:inline-block;
+    vertical-align: middle;
+    margin-right:5px;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .flex{
+    display:flex;
+    justify-content: center;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .flex:last-child{
+    flex-direction: row-reverse;
+}
+#review_incentive_fieldset #velsof_add_review_form .formReview .flex button{background:#4cbb6c;border-color:#4cbb6c}
+#review_incentive_fieldset #velsof_add_review_form .formReview .flex .velsofincentive_button{
+    margin:5px;
+    width:200px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header h2{
+    text-align:center;font-size:30px;width:initial;float:none;line-height:50px;color:white;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview{
+    display:flex;
+    justify-content: center;
+    background: #1e9ab5;
+    width: 60%;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #1e9ab5;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .imgReview{
+    width:100px;height:100px;background:white;border-radius:5px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .imgReview img{
+    width:auto!important;
+    height:100%;
+    display:block;
+    margin:auto;
+    border-radius: 10px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .dataReview{
+    margin-left:20px;
+    padding-top:10px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .dataReview p{
+    color:white;
+    text-align:left;
+    font-size:18px;    
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .dataReview p span.productName{
+    display:block;
+    padding-top:10px;
+    overflow: hidden;
+    width:max-content;
+    font-size:14px;
+    line-height:14px;
+}
+#review_incentive_fieldset #velsof_add_review_form .velsofincentive_write_review_page_header .boxDataReview .dataReview p span.productName::before{
+    content:'';
+    width:20px;
+    height:20px;
+    margin-right:5px;
+    display:inline-block;
+    vertical-align:middle;
+    background:url('../../../../../img/check.svg');
+}
+
+
+#review_incentive_fieldset div.stars {
+  /*width: 270px;*/
+  display: inline-block;
+}
+#review_incentive_fieldset #velsof_loader{
+    width:30px;
+    height: 30px;
+    display: none;
+}
+#review_incentive_fieldset input.star { display: none; }
+#review_incentive_fieldset .kbrc_overlay {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255,255,255,0.6);
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+    z-index: 1000;
+}
+#review_incentive_fieldset label.star {
+  float: right;
+  padding: 19px;
+  font-size: 36px;
+  color: #444;
+  transition: all .2s;
+}
+
+#review_incentive_fieldset input.star:checked ~ label.star:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+
+#review_incentive_fieldset .kbrc_inline{
+    display: grid;
+}
+
+#review_incentive_fieldset input.star-5:checked ~ label.star:before {
+  color: #FD4;
+}
+
+#review_incentive_fieldset input.star-1:checked ~ label.star:before {color: #FD4;}
+#review_incentive_fieldset label.star:before {
+  content: '\f005';
+  font-family: FontAwesome;
+}
+#review_incentive_fieldset .stars .selected{color:gold;}
+/*#review_incentive_fieldset .stars > label:hover:before {
+   content: "\2605";
+   position: absolute;
+}*/
+#review_incentive_fieldset .stars > input:checked ~ label, 
+#review_incentive_fieldset .stars:not(:checked) > label:hover,  
+#review_incentive_fieldset .stars:not(:checked) > label:hover ~ label { color: #FFD700;  }
+
+#review_incentive_fieldset .stars > span input:checked + label:hover, 
+#review_incentive_fieldset .stars > span input:checked ~ label:hover,
+#review_incentive_fieldset .stars > label:hover ~ input:checked ~ label, 
+#review_incentive_fieldset .stars > input:checked ~ label:hover ~ label { color: #FFED85;  }
+#review_incentive_fieldset .stars > label { 
+   color: #ddd; 
+}
+#review_incentive_fieldset .stars .dark {
+    color: gold;
+}
+#review_incentive_fieldset input[type="text"]
+{/*    background: none repeat scroll 0 0 #FFFFFF;*/background-color: #FFFFFF;/*    border: 1px solid #CCCCCC;*/margin-left: 0;margin-right: 0;padding: 3px;border: 1px solid #cecece;/*    color: #a9a9a9;*/outline: 0 none;width: 93%;text-align: center;}
+
+#review_incentive_fieldset .kb_error_message {
+    color:red !important;    
+    font-size: 11px;
+}
+#review_incentive_fieldset input[type="password"]
+{
+    background: none repeat scroll 0 0 #F8F8F8;
+    border: 1px solid #CCCCCC;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 3px;
+}
+
+#review_incentive_fieldset textarea 
+{
+    background: none repeat scroll 0 0 #F8F8F8;
+    border: 1px solid #CCCCCC;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 3px;
+}
+
+#review_incentive_fieldset h2 {
+    color: #000000;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+#review_incentive_fieldset .velsof_star_ratings {
+        padding-right: 413px;
+}
+
+#review_incentive_fieldset .velsofincentive_big_star
+{
+    background: url("../../img/front/big_star.png") no-repeat 0 0 rgba(0, 0, 0, 0);
+    background-position: -5px 0px;
+    color: #FFFFFF;
+    display: block;
+    font-size: 15px;
+    height: 40px;
+    text-align: center;
+    width: 66px;
+    margin:auto;
+}
+
+
+#review_incentive_fieldset .velsofincentive_product_review_rating{
+    display: flex;
+    width: 300px;
+    justify-content: flex-start;
+    padding: 10px 0px;
+}
+#review_incentive_fieldset .velsofincentive_product_review_rating .promedio .numberPromedio{
+    font-size:64px;
+    color:#333333;
+    line-height:64px;
+}
+#review_incentive_fieldset .velsofincentive_product_review_rating .promedio {}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio{padding-left:10px;}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .velsofincentive_big_star {background-size: 180px;width:180px;position: relative;}
+
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .w-5::after{z-index:1;content:'';display:block;width: 0px;height:40px;position: absolute;background:white;right: 0px;}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .w-4::after{z-index:1;content:'';display:block;width: 40px;height:40px;position: absolute;background:white;right: 0px;}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .w-3::after{z-index:1;content:'';display:block;width: 80px;height:40px;position: absolute;background:white;right: 0px;}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .w-2::after{z-index:1;content:'';display:block;width: 110px;height:40px;position: absolute;background:white;right: 0px;}
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .w-1::after{z-index:1;content:'';display:block;width: 150px;height:40px;position: absolute;background:white;right: 0px;}
+
+#review_incentive_fieldset .velsofincentive_product_review_rating .starPromedio .promedioBetween {
+    display:block;
+    font-size:14px;
+    color:#333;
+}
+#review_incentive_fieldset .velsofincentive_rating_div
+{
+    width:100%;
+}
+
+#review_incentive_fieldset .velsofincentive_product_review_filter
+{
+    width:70%;
+    float:left;
+    border-right: 1px dotted #CCCCCC;
+    min-height: 100px;
+/*    padding-left: 10px;*/
+    padding-top: 10px;
+}
+
+#review_incentive_fieldset .velsofincentive_product_review_write
+{
+    text-align:center;
+    padding-top: 10px;
+}
+
+#review_incentive_fieldset .velsofincentive_avg_rating
+{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#review_incentive_fieldset .velsofincentive_avg_rating span
+{
+    color: #848484;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_font_11
+{
+    font-size: 11px;
+}
+
+#review_incentive_fieldset .velsofincentive_button
+{
+    margin-left:10px;
+    padding:5px 10px;
+    background: #4294d1;
+    text-decoration: none;
+    font-size: 13px;
+    color: #F9F9F9;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+#review_incentive_fieldset .velsofincentive_clear
+{
+    clear:both;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review
+{
+    margin-bottom: 10px;
+}
+
+#review_incentive_fieldset .velsofincentive_review
+{
+    /* border-bottom: 1px solid #CBCCCC; */
+    padding: 16px 0;
+    clear:both;
+    position:relative;
+    overflow: hidden;
+    margin:0;
+    vertical-align: baseline;
+    text-align: left;
+    color:#848484;
+}
+
+#review_incentive_fieldset .velsofincentive_review_left
+{
+    line-height: 18px;
+    width: 20%;
+    float:left;
+    padding:0;
+    margin:0;
+    border: 0 none;
+    vertical-align: baseline;
+}
+
+#review_incentive_fieldset .velsofincentive_review_right
+{
+    float: left;
+    width: 80%;
+    margin-bottom: 10px;
+    vertical-align: baseline;
+}
+
+#review_incentive_fieldset .velsofincentive_review_right_description
+{
+    color: #848484;
+    text-align: justify;
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 0;
+    border: 0 none;
+    vertical-align: baseline;
+    font-size: 14px;
+}
+#review_incentive_fieldset .velsofincentive_review_right_description::first-letter{
+    text-transform:uppercase;
+}
+
+#review_incentive_fieldset .velsofincentive_line
+{
+    overflow: hidden;
+}
+
+#review_incentive_fieldset .velsofincentive_review_author
+{
+    color: #666666;
+}
+
+#review_incentive_fieldset .velsofincentive_review_filter_title
+{
+    color: #848484;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 0;
+    text-align: left;
+}
+
+#review_incentive_fieldset .velsofincentive_review_filter_links
+{
+    margin: 0 !important;
+    padding: 0;
+    border: 0 none;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: left;
+    color: #848484;
+}
+
+#review_incentive_fieldset .velsofincentive_review_filter_link
+{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 12px;
+    text-decoration: underline;
+    padding: 0;
+    vertical-align: baseline;
+    list-style: none outside none;
+    text-align: left;
+    color: #848484 !important;
+}
+
+#review_incentive_fieldset .velsofincentive_review_filter_link a
+{
+    color: #666666;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#review_incentive_fieldset .velsofincentive_review_filter_link a:hover
+{
+    color: #2271B2;
+    text-decoration: underline;
+}
+
+#review_incentive_fieldset .velsofincentive_review_list
+{
+    margin-bottom: 20px;    
+}
+
+#review_incentive_fieldset .kb_success_message
+{
+    color:green !important;    
+}
+#review_incentive_fieldset .velsofincentive_review_detail
+{
+    line-height: 18px;
+    padding:0;
+    margin:0;
+    border: 0 none;
+    vertical-align: baseline;
+}
+
+#review_incentive_fieldset .velsofincentive_review_product
+{
+    line-height: 18px;
+    width: 15%;
+    float:left;
+    padding:0;
+    margin:0;
+    border: 0 none;
+    vertical-align: baseline;
+}
+
+#review_incentive_fieldset .velsofincentive_review_product_image
+{
+    text-align:center;
+}
+
+#review_incentive_fieldset .velsofincentive_review_incentives
+{
+    line-height: 18px;
+    width: 10%;
+    float:right;
+    padding-left:0;
+    margin:0;
+    border: 0 none;
+    vertical-align: baseline;
+    text-align:center;
+}
+
+#review_incentive_fieldset .velsofincentive_review_description
+{
+    margin-bottom: 10px;
+    vertical-align: baseline;
+    color: #848484;
+    text-align: left;
+}
+
+#review_incentive_fieldset .velsofincentive_review_text
+{
+    overflow: hidden;
+    text-align: left;
+    color:#666666;
+    margin-bottom: 3px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_author{
+    margin-top:10px;
+}
+#review_incentive_fieldset .velsofincentive_review_author p{
+    font-size:18px;
+}
+#review_incentive_fieldset .velsofincentive_review_author p span{
+    font-size:12px;
+}
+
+#review_incentive_fieldset .velsofincentives_block
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 6px;
+}
+
+#review_incentive_fieldset .velsofincentives_content
+{
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 10px;
+}
+#review_incentive_fieldset .velsofincentives_right
+{
+    float: right;
+    text-align: right;
+}
+
+#review_incentive_fieldset .velsofincentives_balanced_incentive
+{
+    border: 1px solid #EEEEEE;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 20px;
+}
+#review_incentive_fieldset .velsofincentive_request_coupon
+{
+    border: 1px solid #EEEEEE;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#review_incentive_fieldset .velsofincentive_coupons
+{
+    margin-bottom: 10px;
+}
+#review_incentive_fieldset .velsofincentive_coupon_request_list table
+{
+    border-collapse: collapse;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#review_incentive_fieldset .velsofincentive_coupon_request_list thead td
+{
+    background-color: #F7F7F7;
+    border-bottom: 1px solid #DDDDDD;
+    color: #4D4D4D;
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_coupon_request_list tbody td
+{
+    border-bottom: 1px solid #DDDDDD;
+    vertical-align: top;
+}
+
+#review_incentive_fieldset .velsofincentive_coupon_request_list td
+{
+    padding: 7px;
+    border-left: 1px solid #DDDDDD;
+    text-align: center;
+}
+
+#review_incentive_fieldset #hide {
+    display:none;
+}
+ 
+#review_incentive_fieldset .rating input {
+    position:absolute;
+    filter:alpha(opacity=0);
+    -moz-opacity:0;
+    -khtml-opacity:0;
+    opacity:0;
+    cursor:pointer;
+    width:17px;
+}
+ 
+#review_incentive_fieldset .rating span {
+    width:24px;
+    height:16px;
+    line-height:16px;
+    padding:1px 22px 1px 0; /* 1px FireFox fix */
+    background:url(../../img/front/stars_new.png) no-repeat -22px 0;
+}
+
+#review_incentive_fieldset .rating input:checked + span:hover {
+    background:url(../../img/front/stars_new.png) no-repeat -22px 0;
+}
+
+#review_incentive_fieldset .rating input:checked + span:hover ~ span {
+    background-position:0 0;
+} 
+/* Change span immediately following the checked radio */
+
+#review_incentive_fieldset .rating input:checked + span {
+    background-position:-22px 0;
+}
+ 
+/* Reset all remaining stars back to default background.
+   This supersedes the above due to its ordering. */
+ 
+#review_incentive_fieldset .rating input:checked + span ~ span {
+    background-position:0 0;
+}
+
+#review_incentive_fieldset .velsofincentives_content
+{
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 10px;
+}
+
+
+
+#review_incentive_fieldset .velsofincentives_content
+{
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 10px;
+}
+#review_incentive_fieldset .velsofincentives_right
+{
+    float: right;
+    text-align: right;
+}
+
+#review_incentive_fieldset .velsofincentives_block
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 6px;
+}
+
+#review_incentive_fieldset table.velsofincentive_table_form
+{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#review_incentive_fieldset table.velsofincentive_table_form tr td:first-child {
+    width: 150px;
+}
+
+#review_incentive_fieldset table.velsofincentive_table_form td {
+    padding: 4px;
+}
+
+#review_incentive_fieldset table.velsofincentive_table_form > * > * > td {
+    color: #000000;
+}
+
+#review_incentive_fieldset .velsofincentive_required
+{
+    color: #FF0000;
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_review_yes
+{
+    background: url(../../img/front/yes_no.png) no-repeat scroll -35px -40px rgba(0, 0, 0, 0);
+    height: 14px;
+    width: 12px;
+    display: inline-block;
+}
+
+/*#review_incentive_fieldset .velsofincentive_review_yes:hover
+{
+    background: no-repeat scroll -16px -40px rgba(0, 0, 0, 0);
+    height: 14px;
+    width: 12px;
+    display: inline-block;
+}*/
+
+#review_incentive_fieldset .velsofincentive_review_no
+{
+    background: url(../../img/front/yes_no.png) no-repeat scroll -35px -68px rgba(0, 0, 0, 0);
+    height: 14px;
+    margin-right: 3px;
+    margin-top: 2px;
+    width: 12px;
+    display: inline-block;
+}
+
+/*#review_incentive_fieldset .velsofincentive_review_no:hover
+{
+    background: repeat scroll -16px -68px rgba(0, 0, 0, 0);
+    height: 14px;
+    margin-right: 3px;
+    margin-top: 2px;
+    width: 12px;
+}*/
+
+#review_incentive_fieldset .velsofincentive_review_vote
+{
+    display: none;
+    vertical-align: top;
+}
+
+#review_incentive_fieldset .velsofincentive_help_review
+{
+    margin-top: 5px;
+    display: none;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_product_image
+{
+    float:left;
+    width:45%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_text
+{
+    padding-left: 10px;
+    font-family: arial,tahoma,verdana,sans-serif;
+    color: #333333;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_text a
+{
+    text-decoration: none;
+    color: #666666;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_text a:hover
+{
+    text-decoration: underline;
+    color: #2271B2;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_box
+{
+    width:100%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_table_form
+{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 2px;
+    border: 0 none;
+    font-family: arial,tahoma,verdana,sans-serif;
+    color: #333333;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_table_form td 
+{
+    background: none repeat scroll 0 0 #F2F2F2;
+    padding: 7px 2px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_table_form .lbl 
+{
+    padding-top: 10px;
+    vertical-align: top;
+    width: 18%;
+}
+
+#review_incentive_fieldset .velsofincentive_boldtext
+{
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_label
+{
+    color: #333333;
+    font-size: 13px;
+    float: none;
+    width: auto;
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_review_steps {
+    background: no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: left;
+    height: 34px;
+    margin-left: -10px;
+    margin-right: 3px;
+    margin-top: -10px;
+    width: 34px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_step1 {
+    background-position: 0 2px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_step2 {
+    background-position: -35px 2px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_step3 {
+    background-position: -70px 2px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_step4 {
+    background-position: -105px 1px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_step5 {
+    background-position: -140px 1px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_text-holder
+{
+    width: 92%;
+}
+
+#review_incentive_fieldset .velsofincentive_position-relative
+{
+    position: relative;
+}
+
+#review_incentive_fieldset .velsofincentive_review_text_message
+{
+    background: none repeat scroll 0 0 #F2F2F2;
+    color: #666;
+    font-size: 11px;
+/*    padding: 4px;*/
+/*    position: relative;*/
+    top: 1px;
+    width: 100%;
+    left: -1px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_description_text
+{
+/*    padding: 6px;*/
+    margin: 0;
+    border: 0 none;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+    color: #666666;
+    font-size: 11px;
+}
+
+#review_incentive_fieldset .velsofincentive_user-input-field
+{
+    
+}
+
+#review_incentive_fieldset .velsofincentive_input
+{
+    border: 1px solid #CCCCCC;
+    font-family: arial,tahoma,verdana,sans-serif;
+    font-size: 13px;
+    padding: 5px 6px;
+    resize: none;
+    background-color: #FFFFFF;
+}
+
+#review_incentive_fieldset #review_text
+{
+    border: 1px solid #CECECE;
+    font-size: 13px;
+    height: 150px;
+    overflow: auto;
+    width: 100%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_table_form .lbl
+{
+    padding-top: 10px;
+    vertical-align: top;
+    width: 18%;
+}
+
+#review_incentive_fieldset .velsofincentive_help_message
+{
+    color: #666666;
+    font-size: 11px;
+    padding-left: 5px;
+    margin: 0;
+    border: 0 none;
+    vertical-align: baseline;
+    text-align: left;
+}
+
+#review_incentive_fieldset .velsofincentive_error
+{
+    color: #FF0000;
+    display: block;
+    font-size: 12px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_review_right_title
+{
+    font-weight: 600;
+    color: #333333;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+#review_incentive_fieldset .velsofincentive_message
+{
+    color: #333333;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+#review_incentive_fieldset div:last-child{display:block;text-align:left;}
+#review_incentive_fieldset .velsofincentive_ask_helpful_review
+{
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+#review_incentive_fieldset .velsofincentive_vote_helpful_review
+{
+    font-size: 11px;
+    text-align: left;
+    color: #848484;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_review_message_bold
+{
+    font-weight: bold;
+    font-size: 13px;
+    color: #848484;
+    font-family: arial,tahoma,verdana,sans-serif;
+    vertical-align:top;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_product_description
+{
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_product
+{
+    float:left; 
+    width:25%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_product h2
+{
+    text-align: left;
+    font-size: 13px;
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_page_header
+{
+    border-bottom: 1px solid #CCCCCC;
+    overflow: hidden;
+    margin-bottom: 4px;
+    font-size: 13px;
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_page_header h2
+{
+    font-size: 16px;
+    margin-bottom: 3px;
+    font-weight: bold;
+    float: left;
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    width:80%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_right_count
+{
+    float:right;
+    width:20%;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_description
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #EEEEEE;
+    padding: 10px;
+    font-size: 11px;
+    margin-top: 10px;
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left;
+    min-height: 350px;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_form
+{
+    float:left; 
+    width:100%;
+    padding-left: 20px;
+}
+
+
+#review_incentive_fieldset #velsofincentive_write_review_description p
+{
+    margin-bottom: 10px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif !important;
+    text-align: left !important;
+    font-size: 11px !important;
+    line-height: 1.3;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description .velsofincentive_review_description_heading 
+{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+    color: #333333;
+    font-family: arial,tahoma,verdana,sans-serif;
+    line-height: 1.3;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description strong
+{
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    font-weight: bold !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description em
+{
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    font-style: italic !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description em strong
+{
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    font-style: italic !important;
+    font-weight: bold !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description u
+{
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    text-decoration: underline !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description strike
+{
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    text-decoration: line-through !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description ul li { 
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    list-style-type: disc !important; 
+    list-style-position: inside !important; 
+}
+#review_incentive_fieldset #velsofincentive_write_review_description ol li { 
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    list-style-type: decimal !important; 
+    list-style-position: inside !important; 
+}
+#review_incentive_fieldset #velsofincentive_write_review_description ul ul li, #review_incentive_fieldset #velsofincentive_write_review_description ol ul li { 
+    list-style-type: circle !important; 
+    list-style-position: inside !important; 
+    margin-left: 15px !important; 
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+}
+#review_incentive_fieldset #velsofincentive_write_review_description ol ol li, #review_incentive_fieldset #velsofincentive_write_review_description ul ol li { 
+    list-style-type: lower-latin !important; 
+    list-style-position: inside !important; 
+    margin-left: 15px !important; 
+    font-size: 11px !important;
+    color: #333333 !important;
+    font-family: arial,tahoma,verdana,sans-serif;
+    text-align: left !important;
+    line-height: 1.3 !important;
+}
+
+#review_incentive_fieldset #velsofincentive_write_review_description sup {vertical-align: super !important; }
+
+#review_incentive_fieldset #velsofincentive_write_review_description sub {vertical-align: sub !important; }
+
+#review_incentive_fieldset #velsofincentive_write_review_description sub, #review_incentive_fieldset #velsofincentive_write_review_description sup {
+    font-size: 0.5em !important;
+    line-height: 100% !important;
+}
+#review_incentive_fieldset #kbrc_pro_img{
+    width: 10%;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+#review_incentive_fieldset #kbrc_word_count{
+    float:right;
+    font-weight: bold;
+}
+#review_incentive_fieldset #kbrc_word_count_text{
+    float:right;
+}
+#review_incentive_fieldset .velsofincentive_write_review_error_box
+{
+    display: block;
+    background: none repeat scroll 0 0 #F6E0E0;
+    border: 1px solid #BB0000;
+    color: #BB0000;
+    padding: 5px 10px;
+    font-size: 13px;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_error_box ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none outside none;
+    border: 0 none;
+    color: #BB0000;
+    vertical-align: baseline;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_error_box ul li
+{
+    font-size: 11px;
+    margin: 5px 20px;
+    padding: 0;
+    border: 0 none;
+    list-style: none outside none;
+    color: #BB0000;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_error_box ul li b
+{
+    color: #BB0000;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+    font-weight: bold;
+}
+
+#review_incentive_fieldset .velsofincentive_clear_filter
+{
+    background-color: #E9E9E9;
+    border: 1px solid #C9C9C9;
+    padding: 2px 10px;
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: left;
+    font-family: arial,tahoma,verdana,sans-serif;
+    display: none;
+    width:50%;
+}
+
+#review_incentive_fieldset .velsofincentive_review_no_div
+{
+    display:inline-block;
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: bottom;
+    margin-top: 3px;
+    margin-right: 5px;
+}
+
+#review_incentive_fieldset .velsofincentive_review_yes_div
+{
+    display:inline-block;
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#review_incentive_fieldset .velsofincentive_helpful_review
+{
+    color: #333333;
+    font-size: 12px;
+    margin-top: 3px;
+    vertical-align: baseline;
+    float:left;
+}
+
+#review_incentive_fieldset .velsofincentive_write_review_button
+{
+    /*text-align: center;*/
+}
+
+
+
+
+
+
+
+
+
+#starRating:not(old){
+        display        : inline-block;
+        position       : relative;
+        height         : 24px;
+        background     : url('../../img/front/stars_new.png') repeat-x 0 0;
+        vertical-align : bottom;
+        min-width: 120px;
+      }
+
+      #starRating:not(old) div{
+        float    : left;
+        position : relative;
+      }
+
+      #starRating:not(old) input{
+        position       : relative;
+        z-index        : 1;
+        width          : 24px;
+        height         : 24px;
+        margin         : 0;
+        padding        : 0;
+        opacity        : 0;
+        vertical-align : bottom;
+      }
+
+      #starRating:not(old) label{
+        position : absolute;
+        top      : 0;
+        left     : 0;
+        width    : 100%;
+        height   : 24px;
+        margin:0;
+      }
+
+      #starRating:not(old) span{
+        display : none;
+      }
+
+      #starRating:not(old)       input:checked       + label,
+      #starRating:not(old):hover input:checked:hover + label{
+        background : url('../../img/front/stars_new.png') repeat-x 0 -24px;
+      }
+      #starRating input:checked:hover{
+          background : url('../../img/front/stars_new.png') repeat-x 0 -24px;
+      }
+      
+      #starRating:not(old):hover input:checked + label{
+        background : transparent;
+      }
+#starRating span, #starRating:not(old) span {
+    display: none;
+}
+      #starRating:not(old):hover input:hover + label{
+        background : url('../../img/front/stars_new.png') repeat-x 0 -48px;
+      }
+
+.kbrc_overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+    z-index: 10000;
+}
+   .kbrc_post_review_img{
+        float:left;
+    }
+    .kbrc_post_review_txt{
+        margin-left: 5px;
+        float:left;
+        font-weight: normal;
+    }
+    .kbrc_read_review_img{
+        float:left;
+    }
+    .kbrc_read_review_txt{
+        margin-left: 5px;
+        float:left;
+        font-weight: normal;
+    }
+    
+    .kbrc_post_review{
+        display:inline-block;
+    }
+    .kbrc_read_review{
+        display:inline-block;
+    }
+    .kbrc_post_review a{
+        color:black;
+    }
+    .kbrc_read_review a{
+        color:black;
+    }
+    .kbrc_post_review a:hover{
+        color:white;
+    }
+    .kbrc_read_review a:hover{
+        color:white;
+    }
+        .kb_error_field{
+    border-color:red !important;
+}
+
+.kb_error_message{
+     color: red !important;
+}
+
+#kbrc_info{
+        margin-left: 21px;
+    padding: 0px;
+}
+
+.page-product-box{}
+.page-product-box h3.page-product-heading::first-letter{
+    text-transform:uppercase;
+}
