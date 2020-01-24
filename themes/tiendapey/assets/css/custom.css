@@ -30,6 +30,7 @@ input[type="email"]:focus, input[type="text"]:focus, input[type="password"]:focu
 .h1, .h2, .h3{text-transform:capitalize!important;} 
 
 /*authentication*/
+#authentication {}
 #authentication #header{height:200px;}
 #authentication #main{position:relative;top:-100px;border-radius:5px;background:white;padding: 20px;width:30vw;margin:auto;box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);}
 #authentication #main.w-50{width:50vw;}
@@ -152,7 +153,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4854a0', end
 
  #header .header-nav #menu-icon .material-icons{color:white;}
  #header a, #header button span{color:white;}
- #header #_desktop_logo a{display:block;margin-top:5px;}
+ #header #_desktop_logo a{display:block;}
  #header #_desktop_logo a img{}
  #header ul li a{color:#727176;font-size: 14px;}
   #header .header-nav{border:none;}
@@ -526,8 +527,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4854a0', end
 
 #header .header-nav #menu-icon .material-icons{color:white;}
 #header a, #header button span{color:white;}
-#header #_desktop_logo a{display:block;margin-top:5px;}
-#header #_desktop_logo a img{}
+#header #_desktop_logo{margin-top:-10px;}
+#header #_desktop_logo a{display:block;}
+#header #_desktop_logo a img{
+    width: 240px;
+    height: auto;
+}
 #header ul li a{color:#727176;font-size: 14px;}
  #header .header-nav{border:none;}
  #header .header-top{padding-bottom: 0.125rem;position: relative;}
